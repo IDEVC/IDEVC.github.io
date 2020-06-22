@@ -27,7 +27,7 @@ AdaptIN sample:
   </audio>
 </html>
 
-IDEVC sample:
+IDEVC sample (Ours):
 <html>
   <audio controls>
     <source src="disentanglement_p271_015_p293_016_zs.wav">
